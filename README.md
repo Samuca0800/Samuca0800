@@ -28,5 +28,4 @@
 </div>
 
 <div align="center">
-  <p>Credits to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+ 
