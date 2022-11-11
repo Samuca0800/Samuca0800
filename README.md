@@ -1,4 +1,4 @@
- <h1 align="center">Hello, I'm <i>Samuel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>
+ <h1 align="center">Hello, I'am <i>Samuel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>
 <div align="center">
 
   <a href="https://github.com/Samuca0800">
