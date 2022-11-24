@@ -2,7 +2,7 @@
 <img src="https://64.media.tumblr.com/05df28bdc40847a917bba5cad3e3994d/tumblr_nxcc3vKAy61rt6u7do1_400.gif" width="900" height="350"/>
 </div>
    
-<h1 align="center">Hello, I'am <i>Samuel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>
+<h1 align="center">Hello, I'am <i>Samuel, and I'am Gay</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>
 <div align="center">
 
   <a href="https://github.com/Samuca0800">
