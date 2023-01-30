@@ -1,5 +1,5 @@
 <div aling="center">
-<img src="https://64.media.tumblr.com/05df28bdc40847a917bba5cad3e3994d/tumblr_nxcc3vKAy61rt6u7do1_400.gif" width="900" height="350"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Ffdpcom3%2Fstatus%2F1074408077913456642&psig=AOvVaw2w4C0baBy1Lw8fFYDKxI5h&ust=1675175138151000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDB-rK97_wCFQAAAAAdAAAAABAE" width="900" height="350"/>
 </div>
    
 <h1 align="center">Hello, I'am <i>Samuel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40px"></a> 😃️</h1>
